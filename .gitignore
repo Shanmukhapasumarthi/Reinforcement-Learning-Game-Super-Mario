@@ -1,0 +1,7 @@
+__pycache__/
+.venv/
+runs/
+games/
+videos/
+*.mp4
+*.gif
